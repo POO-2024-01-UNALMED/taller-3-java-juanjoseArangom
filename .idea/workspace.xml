@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff09be82-044f-4bad-9364-6a4815289d70" name="Changes" comment="" />
+    <list default="true" id="ff09be82-044f-4bad-9364-6a4815289d70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/taller3/televisores/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/taller3/televisores/TV.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,26 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.TestTV.executor": "Debug",
-    "Gradle.TestAtributos.executor": "Run",
-    "Gradle.TestConstructores.executor": "Run",
-    "JUnit.TestAtributos.executor": "Run",
-    "JUnit.TestMetodos.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Trabajos Unal/2024-1/POO/Github/taller-3-java-juanjoseArangom",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TestTV.executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.TestAtributos.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TestConstructores.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAtributos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestMetodos.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Trabajos Unal/2024-1/POO/Github/taller-3-java-juanjoseArangom&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +76,8 @@
       <updated>1708726259549</updated>
       <workItem from="1708726260668" duration="6439000" />
       <workItem from="1708879291244" duration="824000" />
-      <workItem from="1708880885425" duration="3838000" />
+      <workItem from="1708880885425" duration="4492000" />
+      <workItem from="1708888250701" duration="3849000" />
     </task>
     <servers />
   </component>
