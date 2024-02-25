@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff09be82-044f-4bad-9364-6a4815289d70" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/taller3/televisores/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/taller3/televisores/TV.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     "Gradle.TestAtributos.executor": "Run",
     "Gradle.TestConstructores.executor": "Run",
     "JUnit.TestAtributos.executor": "Run",
-    "JUnit.TestMetodos.executor": "Run",
+    "JUnit.TestMetodos.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -75,7 +76,7 @@
       <updated>1708726259549</updated>
       <workItem from="1708726260668" duration="6439000" />
       <workItem from="1708879291244" duration="824000" />
-      <workItem from="1708880885425" duration="2840000" />
+      <workItem from="1708880885425" duration="3496000" />
     </task>
     <servers />
   </component>
@@ -86,9 +87,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/taller3/televisores/TestTV.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/test/java/test/TestMetodos.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
