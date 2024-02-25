@@ -5,6 +5,7 @@ public class Control {
     private TV tv;
     public void enlazar(TV tv){
         this.tv = tv;
+        tv.setControl(Control.this);
     }
     public void setTv(TV tv){
         this.tv = tv;
